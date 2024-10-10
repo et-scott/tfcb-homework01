@@ -1,8 +1,8 @@
 # Homework 1 
 
-## H2 Heading 
+## H2 Heading Example 
 
-### H3 Heading 
+### H3 Heading Example 
 
 ## Dubs the Husky Dog
 ![image](https://github.com/user-attachments/assets/07a9a390-06ea-43ff-8108-3ff6a585d99c)
@@ -20,5 +20,4 @@
   * Dobermann
   * Great Dane
 
-### For More Pics of Dogs Visit 
-https://random.dog/
+For More Pics of Dogs Visit: https://random.dog/
