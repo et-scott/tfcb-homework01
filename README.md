@@ -12,6 +12,15 @@
 
 ![image](https://github.com/user-attachments/assets/d1efc92f-c3bb-4146-bda3-54a270fc5f71)
 
+### Reasons to Like Dogs
+| Reason                          | Example                                |
+|---------------------------------|----------------------------------------|
+| Loyal        | A dog waiting at door for you            |
+| Exercise        | Going on hikes with a dog              |
+| Protection                  | Bites intruder                         |
+| Emotional Support          | Pet when you are sad                |
+
+
 ### List of Other Dogs
 * Good Dogs
   * Golden Retriever
